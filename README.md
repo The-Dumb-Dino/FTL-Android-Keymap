@@ -1,8 +1,20 @@
 # FTL-Android-Keymap
 Winlator Keymap(s) for Android
 
-Will update this repo in the future to add more keymaps and improve the current one
+## About:
+This Repository features a list of Winlator keymaps I created for FTL: Faster Than Light. 
+I provide 2 Keymaps for now, one for the Vanilla game and one for Hyperspace. 
+It took me ~2 hours configuring them, its simple but takes some time and adjustment to get it laid out perfect.
 
+
+I hope you'll like it!
 
 ## Layout:
-![image](https://github.com/The-Dumb-Dino/FTL-Android-Keymap/assets/77470472/5298b958-135d-4be2-a3b4-44cf41c0adaf)
+![Winlator Android Keymap](https://github.com/The-Dumb-Dino/FTL-Android-Keymap/assets/77470472/fb1a0b42-641d-41f4-b78b-16bd9b0a06d1)
+
+
+## Note:
+**Before you can use the provided keymap you have to configure the keys** in FTL's hotkey setting tab. I would reccomend wiping every existing key (asign the same key to everything) so you can asign all fresh by pressing the buttons on your screen. 
+
+If there are any questions or things you don't understand feel free to message me on discord.
+<img width="188" alt="image" src="https://github.com/The-Dumb-Dino/FTL-Android-Keymap/assets/77470472/025b6135-a8db-44cf-a441-5d0c90e4d36a">
