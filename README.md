@@ -17,4 +17,4 @@ I hope you'll like it!
 **Before you can use the provided keymap you have to configure the keys** in FTL's hotkey setting tab. I would reccomend wiping every existing key (asign the same key to everything) so you can asign all fresh by pressing the buttons on your screen. 
 
 If there are any questions or things you don't understand feel free to message me on discord.
-<img width="188" alt="image" src="https://github.com/The-Dumb-Dino/FTL-Android-Keymap/assets/77470472/025b6135-a8db-44cf-a441-5d0c90e4d36a">
+![Discord Profile](https://github.com/The-Dumb-Dino/FTL-Android-Keymap/assets/77470472/c66c5a50-5a23-4732-8db0-8e6326e22663)
